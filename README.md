@@ -1,5 +1,7 @@
 # Bevy query vs hash map
 
+Compare 1000 random ID searches every frame.
+
 ## Run
 
 ```shell
